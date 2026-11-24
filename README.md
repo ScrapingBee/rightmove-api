@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="rightmove-api" />
+    <img src="https://github.com/user-attachments/assets/b0527dda-4349-4322-9c44-b7a5e979de36" alt="rightmove-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/rightmove-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/rightmove-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/rightmove-api.svg)](LICENSE)
